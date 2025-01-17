@@ -1,0 +1,51 @@
+# .NET Core
+.vs
+.vscode
+.idea
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer package files
+*.pdb
+
+# Windows installer debug files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ist/
+[Dd]ebug-windows/
+[Dd]Debug-x86/
+[Dd]Debug-x64/
+[Dd]Release/
+[Dd]Release-x86/
+[Dd]Release-x64/
+
+# Exclude bin/ directory
+bin/
+
+# NuGet packages directory
+/packages/
+
+# Temporary files
+*.temp
+*.bak
+
+# Exclude obj/ directory
+obj/
+
+# Do not exclude Properties directory as it contains necessary files
